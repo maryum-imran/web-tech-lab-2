@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ocean coffee shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <h2 class="logo">OCEAN</h2>
+    <section class="hero">
+        <div class="hero-text">
+            <h1>Welcome to ocean</h1>
+            <p>your fav coffee shop</p>
+
+        </div>
+        <div class="card">
+            <img src="file:///C:/Users/Com%20Plus%20Technology/Downloads/80755034-a14c-4691-8efa-047b462e02b0.png" alt="">
+            <h3>Cappuccino</h3>
+            <p>Espresso with steamed milk and foam</p>
+            <button>Order now</button>
+
+        </div>
+        <div class="card">
+            <img src="file:///C:/Users/Com%20Plus%20Technology/Downloads/3c04b1ef-1e0a-454a-82fe-5a119c4266a0.png" alt="">
+            <h3>Iced latte</h3>
+            <p>Chilled espresso wiyh cold milk</p>
+            <button>Order now</button>
+
+        </div>
+
+    </section>
+    
+</body>
+</html>
